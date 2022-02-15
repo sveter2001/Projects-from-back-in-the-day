@@ -1,0 +1,16 @@
+G:\12\Проекты\1ЛабаООП(3курс)\bin\Debug\net5.0\1ЛабаООП(3курс).exe
+G:\12\Проекты\1ЛабаООП(3курс)\bin\Debug\net5.0\1ЛабаООП(3курс).deps.json
+G:\12\Проекты\1ЛабаООП(3курс)\bin\Debug\net5.0\1ЛабаООП(3курс).runtimeconfig.json
+G:\12\Проекты\1ЛабаООП(3курс)\bin\Debug\net5.0\1ЛабаООП(3курс).runtimeconfig.dev.json
+G:\12\Проекты\1ЛабаООП(3курс)\bin\Debug\net5.0\1ЛабаООП(3курс).dll
+G:\12\Проекты\1ЛабаООП(3курс)\bin\Debug\net5.0\ref\1ЛабаООП(3курс).dll
+G:\12\Проекты\1ЛабаООП(3курс)\bin\Debug\net5.0\1ЛабаООП(3курс).pdb
+G:\12\Проекты\1ЛабаООП(3курс)\obj\Debug\net5.0\1ЛабаООП(3курс).csproj.AssemblyReference.cache
+G:\12\Проекты\1ЛабаООП(3курс)\obj\Debug\net5.0\1ЛабаООП(3курс).GeneratedMSBuildEditorConfig.editorconfig
+G:\12\Проекты\1ЛабаООП(3курс)\obj\Debug\net5.0\1ЛабаООП(3курс).AssemblyInfoInputs.cache
+G:\12\Проекты\1ЛабаООП(3курс)\obj\Debug\net5.0\1ЛабаООП(3курс).AssemblyInfo.cs
+G:\12\Проекты\1ЛабаООП(3курс)\obj\Debug\net5.0\1ЛабаООП(3курс).csproj.CoreCompileInputs.cache
+G:\12\Проекты\1ЛабаООП(3курс)\obj\Debug\net5.0\1ЛабаООП(3курс).dll
+G:\12\Проекты\1ЛабаООП(3курс)\obj\Debug\net5.0\ref\1ЛабаООП(3курс).dll
+G:\12\Проекты\1ЛабаООП(3курс)\obj\Debug\net5.0\1ЛабаООП(3курс).pdb
+G:\12\Проекты\1ЛабаООП(3курс)\obj\Debug\net5.0\1ЛабаООП(3курс).genruntimeconfig.cache
